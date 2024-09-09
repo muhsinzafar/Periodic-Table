@@ -1,0 +1,32 @@
+h1{
+    background-color: yellow;
+    text-align: center;
+    font-size: 70px;
+    margin-top: 0;
+    box-shadow: 0 0 15px;
+}
+
+table {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    text-justify: auto;
+    box-shadow: 0 0 15px;
+    width: 100%;
+}
+
+#table2 {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    text-justify: auto;
+    background-color:#FCEFF0;
+    box-shadow: 0 0 15px;
+    width: 80%;
+}
+
+/* footer{
+    background-color: yellowgreen;
+    box-shadow: 0 0 15px;
+    text-align: center;
+    padding-top: 5px;
+    font-size: large;
+} */
